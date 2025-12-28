@@ -1,5 +1,5 @@
 # Use the official Java runtime image for running the application
-FROM openjdk:17-jdk
+FROM openjdk:21-jdk
 
 # Set the working directory
 WORKDIR /app
